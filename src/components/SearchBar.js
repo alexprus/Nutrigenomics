@@ -30,7 +30,7 @@ function SearchBar({ onSearch }) {
     >
       <Input
         type="text"
-        placeholder="Search fruits and veg..."
+        placeholder="Search foods..."
         value={query}
         onChange={handleChange}
         sx={{ '::placeholder': { color: 'white' } }} // Custom CSS to set placeholder text color

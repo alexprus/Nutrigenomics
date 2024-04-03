@@ -1,11 +1,393 @@
 [
-    {
-      "name": "Apple",
-      "description": "Apples are crisp, juicy fruits with a sweet or tart flavor. They are rich in fiber, vitamin C, and various antioxidants."
+  {
+    "food": "Kiwi",
+    "criteria": {
+      "Methylation Cofactors": [
+        "Folate (vitamin B9): 34.8 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+        "Vitamin B6: 0.063 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+        "Vitamin B12: Not significant in kiwi.",
+        "Magnesium: 17 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+        "Choline: 7.8 mg per 100g, vital for liver function, promoting metabolic health."
+      ],
+      "Methylation Potential": [
+        "High methylation potential: 1.5 μmol/L, can support cellular repair and immune function, enhancing overall health."
+      ],
+      "Antioxidant Content": [
+        "Kiwi contains vitamin C, a powerful antioxidant, which helps reduce inflammation and oxidative stress, supporting heart health."
+      ],
+      "Fiber Content": [
+        "Dietary fiber: 3 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+      ],
+      "Glycemic Index": [
+        "Kiwi has a low glycemic index (GI) of 52, helping regulate blood sugar levels and reducing the risk of diabetes."
+      ],
+      "Phytonutrients": [
+        "Kiwi contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+      ],
+      "Detoxification Support": [
+        "Compounds in kiwi, such as vitamin C and dietary fiber, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+      ],
+      "Methyl Group Donors": [
+        "Kiwi contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+      ],
+      "Bioavailability of Nutrients": [
+        "High bioavailability ensures efficient absorption of nutrients from kiwi, optimizing their health benefits."
+      ],
+      "Potential Interactions": [
+        "Some individuals may experience allergic reactions to kiwi, which could range from mild oral itching to severe anaphylaxis. It's important to be cautious if you have a known kiwi allergy."
+      ]
+    }
+  },
+  {
+    "food": "Orange",
+    "criteria": {
+      "Methylation Cofactors": [
+        "Folate (vitamin B9): 30 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+        "Vitamin B6: 0.06 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+        "Vitamin B12: Not significant in oranges.",
+        "Magnesium: 10 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+        "Choline: 8.4 mg per 100g, vital for liver function, promoting metabolic health."
+      ],
+      "Methylation Potential": [
+        "Moderate methylation potential: 1.0 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+      ],
+      "Antioxidant Content": [
+        "Oranges contain vitamin C, a powerful antioxidant, which helps reduce inflammation and oxidative stress, supporting heart health."
+      ],
+      "Fiber Content": [
+        "Dietary fiber: 2.4 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+      ],
+      "Glycemic Index": [
+        "Oranges have a moderate glycemic index (GI) of 40-50, providing sustained energy levels and reducing the risk of blood sugar spikes and crashes."
+      ],
+      "Phytonutrients": [
+        "Oranges contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+      ],
+      "Detoxification Support": [
+        "Compounds in oranges, such as flavonoids and carotenoids, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+      ],
+      "Methyl Group Donors": [
+        "Oranges contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+      ],
+      "Bioavailability of Nutrients": [
+        "Oranges have moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+      ],
+      "Potential Interactions": [
+        "Oranges are acidic and may exacerbate symptoms of gastroesophageal reflux disease (GERD) in some individuals. It's advisable to limit consumption if you have GERD or acid reflux."
+      ]
+    }
+  },
+  {
+    "food": "Lemon",
+    "criteria": {
+      "Methylation Cofactors": [
+        "Folate (vitamin B9): 11 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+        "Vitamin B6: 0.08 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+        "Vitamin B12: Not significant in lemons.",
+        "Magnesium: 8 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+        "Choline: 5.1 mg per 100g, vital for liver function, promoting metabolic health."
+      ],
+      "Methylation Potential": [
+        "Low methylation potential: 0.6 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+      ],
+      "Antioxidant Content": [
+        "Lemons contain vitamin C, a powerful antioxidant, which helps reduce inflammation and oxidative stress, supporting heart health."
+      ],
+      "Fiber Content": [
+        "Dietary fiber: 2.8 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+      ],
+      "Glycemic Index": [
+        "Lemons have a low glycemic index (GI) of 20, helping regulate blood sugar levels and reducing the risk of diabetes."
+      ],
+      "Phytonutrients": [
+        "Lemons contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+      ],
+      "Detoxification Support": [
+        "Compounds in lemons, such as citric acid and polyphenols, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+      ],
+      "Methyl Group Donors": [
+        "Lemons contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+      ],
+      "Bioavailability of Nutrients": [
+        "Lemons have high bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+      ],
+      "Potential Interactions": [
+        "Lemons are acidic and may erode tooth enamel over time. It's advisable to consume them in moderation and rinse your mouth with water afterward to minimize dental erosion."
+      ]
+    }
+  },
+  {
+    "food": "Lime",
+    "criteria": {
+      "Methylation Cofactors": [
+        "Folate (vitamin B9): 8 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+        "Vitamin B6: 0.04 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+        "Vitamin B12: Not significant in limes.",
+        "Magnesium: 6 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+        "Choline: 7.7 mg per 100g, vital for liver function, promoting metabolic health."
+      ],
+      "Methylation Potential": [
+        "Low methylation potential: 0.4 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+      ],
+      "Antioxidant Content": [
+        "Limes contain vitamin C, a powerful antioxidant, which helps reduce inflammation and oxidative stress, supporting heart health."
+      ],
+      "Fiber Content": [
+        "Dietary fiber: 1.8 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+      ],
+      "Glycemic Index": [
+        "Limes have a low glycemic index (GI) of 20, helping regulate blood sugar levels and reducing the risk of diabetes."
+      ],
+      "Phytonutrients": [
+        "Limes contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+      ],
+      "Detoxification Support": [
+        "Compounds in limes, such as flavonoids and limonoids, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+      ],
+      "Methyl Group Donors": [
+        "Limes contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+      ],
+      "Bioavailability of Nutrients": [
+        "Limes have moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+      ],
+      "Potential Interactions": [
+        "Consuming limes in excessive amounts may lead to an increased risk of acid reflux or GERD symptoms due to their acidic nature. It's advisable to consume them in moderation, especially if you have a sensitive stomach."
+      ]
+    }
+  },
+  {
+      "food": "Apple",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 5 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.041 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in apples.",
+          "Magnesium: 5 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 6.4 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 0.8 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Apples contain vitamin C, a powerful antioxidant, which helps reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 2.4 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Apples have a low glycemic index (GI) of 36, helping regulate blood sugar levels and reducing the risk of diabetes."
+        ],
+        "Phytonutrients": [
+          "Apples contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in apples, such as polyphenols and flavonoids, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Apples contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "High bioavailability ensures efficient absorption of nutrients from apples, optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "While apples are generally well-tolerated, excessive consumption may lead to gastrointestinal discomfort in some individuals, emphasizing moderation for digestive health."
+        ]
+      }
     },
     {
-      "name": "Banana",
-      "description": "Bananas are long, curved fruits with a creamy texture and sweet taste. They are a good source of potassium, vitamin B6, and fiber."
+      "food": "Banana",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 20 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.367 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in bananas.",
+          "Magnesium: 27 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 9.8 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 1.0 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Bananas contain vitamin C and other antioxidants, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 2.6 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Bananas have a moderate glycemic index (GI) of 51, providing sustained energy levels and reducing the risk of blood sugar spikes and crashes."
+        ],
+        "Phytonutrients": [
+          "Bananas contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in bananas, such as dietary fiber and antioxidants, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Bananas contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Bananas have moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Bananas are generally well-tolerated, but excessive consumption may lead to an increase in blood sugar levels, emphasizing moderation for individuals with diabetes."
+        ]
+      }
+    },
+    {
+      "food": "Blueberry",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 6 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.052 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in blueberries.",
+          "Magnesium: 6 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 6.4 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 0.9 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Blueberries are rich in antioxidants, such as anthocyanins and vitamin C, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 2.4 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Blueberries have a low glycemic index (GI) of 40, helping regulate blood sugar levels and reducing the risk of diabetes."
+        ],
+        "Phytonutrients": [
+          "Blueberries contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in blueberries, such as polyphenols and flavonoids, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Blueberries contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "High bioavailability ensures efficient absorption of nutrients from blueberries, optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Blueberries are generally well-tolerated, but excessive consumption may lead to gastrointestinal discomfort in some individuals, emphasizing moderation for digestive health."
+        ]
+      }
+    },
+    {
+      "food": "Strawberry",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 24 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.047 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in strawberries.",
+          "Magnesium: 13 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 7.7 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 1.0 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Strawberries are rich in antioxidants, such as vitamin C and flavonoids, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 2 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Strawberries have a low glycemic index (GI) of 40, helping regulate blood sugar levels and reducing the risk of diabetes."
+        ],
+        "Phytonutrients": [
+          "Strawberries contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in strawberries, such as ellagic acid and quercetin, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Strawberries contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "High bioavailability ensures efficient absorption of nutrients from strawberries, optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Strawberries are generally well-tolerated, but excessive consumption may lead to gastrointestinal discomfort in some individuals, emphasizing moderation for digestive health."
+        ]
+      }
+    },
+    {
+      "food": "Blackberry",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 25 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.03 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in blackberries.",
+          "Magnesium: 20 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 8.4 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 0.9 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Blackberries are rich in antioxidants, such as vitamin C and anthocyanins, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 5.3 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Blackberries have a low glycemic index (GI) of 25, helping regulate blood sugar levels and reducing the risk of diabetes."
+        ],
+        "Phytonutrients": [
+          "Blackberries contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in blackberries, such as anthocyanins and ellagic acid, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Blackberries contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "High bioavailability ensures efficient absorption of nutrients from blackberries, optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Blackberries are generally well-tolerated, but excessive consumption may lead to gastrointestinal discomfort in some individuals, emphasizing moderation for digestive health."
+        ]
+      }
+    },
+    {
+      "food": "Dragonfruit",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 3 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.04 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in dragonfruit.",
+          "Magnesium: 9 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 7.6 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Low methylation potential: 0.7 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Dragonfruit contains vitamin C and other antioxidants, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 3 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Dragonfruit has a low glycemic index (GI) of 4, helping regulate blood sugar levels and reducing the risk of diabetes."
+        ],
+        "Phytonutrients": [
+          "Dragonfruit contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in dragonfruit, such as antioxidants and fiber, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Dragonfruit contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "High bioavailability ensures efficient absorption of nutrients from dragonfruit, optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Dragonfruit is generally well-tolerated, but excessive consumption may lead to gastrointestinal discomfort in some individuals, emphasizing moderation for digestive health."
+        ]
+      }
     }
+
   ]
-  
