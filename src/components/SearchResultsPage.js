@@ -1,15 +1,22 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { Box, Heading, Table, Tbody, Tr, Th, Td } from '@chakra-ui/react';
+import { Box, Heading, Table, Tbody, Tr, Th, Td, Button, Text, HStack } from '@chakra-ui/react';
 import data from './data';
 
 function SearchResultsPage() {
   const { query } = useParams();
+  const [ratings, setRatings] = useState({});
 
   // Filter the data based on the search query
   const filteredResults = data.filter(item =>
     item.food.toLowerCase().includes(query.toLowerCase())
   );
+
+  // Function to handle button click and display rating
+  const handleRatingClick = (food) => {
+    const rating = food.rating; // Use the rating directly from JSON data
+    setRatings({ ...ratings, [food.food]: rating });
+  };
 
   // Render search results
   return (
@@ -25,6 +32,16 @@ function SearchResultsPage() {
             <Heading as="h2" size="lg" color="white" mb="4">
               Search Results for: {query}
             </Heading>
+            {filteredResults.map((result, idx) => (
+              <HStack key={idx} mb="4">
+                <Button colorScheme="blue" onClick={() => handleRatingClick(result)}>
+                  Calculate Rating for {result.food}
+                </Button>
+                {ratings[result.food] && (
+                  <Text color="white">Certified Methylation App Rating: {ratings[result.food]}</Text>
+                )}
+              </HStack>
+            ))}
             <Table variant="striped" colorScheme="whiteAlpha">
               <Tbody>
                 {Object.keys(filteredResults[0].criteria).map((category, index) => (
@@ -50,7 +67,7 @@ function SearchResultsPage() {
               Oops!
             </Heading>
             <Box color="white" textAlign="center" mt="4">
-              We couldn't find: {query} in our database. 
+              We couldn't find {query} in our database. 
             </Box>
           </Box>
         )}
