@@ -38,7 +38,7 @@ function SearchResultsPage() {
                   Calculate Rating for {result.food}
                 </Button>
                 {ratings[result.food] && (
-                  <Text color="white">Certified Methylation App Rating: {ratings[result.food]}</Text>
+                  <Text color="white">Certified Nutrigenomics App Rating: {ratings[result.food]}</Text>
                 )}
               </HStack>
             ))}
