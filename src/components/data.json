@@ -320,46 +320,6 @@
     "rating": "77/100"
   },
   {
-    "food": "Pineapple",
-    "criteria": {
-      "Methylation Cofactors": [
-        "Folate (vitamin B9): 18 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
-        "Vitamin B6: 0.112 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
-        "Vitamin B12: Not significant in pineapples.",
-        "Magnesium: 12 mg per 100g, supports muscle and nerve function, contributing to bone health.",
-        "Choline: 7.7 mg per 100g, vital for liver function, promoting metabolic health."
-      ],
-      "Methylation Potential": [
-        "Moderate methylation potential: 1.1 μmol/L, supporting cellular repair and immune function, enhancing overall health."
-      ],
-      "Antioxidant Content": [
-        "Pineapples contain various antioxidants, including vitamin C and bromelain, which help reduce inflammation and oxidative stress, supporting heart health."
-      ],
-      "Fiber Content": [
-        "Dietary fiber: 1.4 g per 100g, supports digestive health, preventing constipation and promoting regularity."
-      ],
-      "Glycemic Index": [
-        "Pineapples have a moderate glycemic index (GI) of 45-66, providing sustained energy levels and reducing the risk of blood sugar spikes and crashes."
-      ],
-      "Phytonutrients": [
-        "Pineapples contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
-      ],
-      "Detoxification Support": [
-        "Compounds in pineapples, such as bromelain and antioxidants, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
-      ],
-      "Methyl Group Donors": [
-        "Pineapples contain methyl group donors that are essential for cellular energy production, supporting metabolism."
-      ],
-      "Bioavailability of Nutrients": [
-        "Pineapples have moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
-      ],
-      "Potential Interactions": [
-        "Consuming large amounts of pineapple, especially on an empty stomach, may cause mouth or tongue irritation due to the enzyme bromelain. It's advisable to consume pineapple in moderation and with other foods to minimize irritation."
-      ]
-    },
-    "rating": "73/100"
-  },
-  {
     "food": "Grapes",
     "criteria": {
       "Methylation Cofactors": [

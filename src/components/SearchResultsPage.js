@@ -34,7 +34,7 @@ function SearchResultsPage() {
             </Heading>
             {filteredResults.map((result, idx) => (
               <HStack key={idx} mb="4">
-                <Button colorScheme="blue" onClick={() => handleRatingClick(result)}>
+                <Button colorScheme="purple" onClick={() => handleRatingClick(result)}>
                   Calculate Rating for {result.food}
                 </Button>
                 {ratings[result.food] && (
@@ -67,7 +67,7 @@ function SearchResultsPage() {
               Oops!
             </Heading>
             <Box color="white" textAlign="center" mt="4">
-              We couldn't find {query} in our database. 
+              We couldn't find "{query}" in our database. 
             </Box>
           </Box>
         )}

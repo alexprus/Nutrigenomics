@@ -36,7 +36,7 @@ function SearchBar({ onSearch }) {
         sx={{ '::placeholder': { color: 'white' } }} // Custom CSS to set placeholder text color
         placeholderTextColor="white"
       />
-      <Button type="submit" colorScheme="teal" ml="3">
+      <Button type="submit" colorScheme="yellow" ml="3">
         Search
       </Button>
     </Box>
