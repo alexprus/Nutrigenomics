@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { Box, Heading, Button } from '@chakra-ui/react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
 import SearchBar from './components/SearchBar';
 import SearchResultsPage from './components/SearchResultsPage';
-import data from './components/data';
+import ProfilePage from './components/ProfilePage'; // Import ProfilePage component
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/search-results/:query" element={<SearchResultsPage />} />
+        <Route path="/profile" element={<ProfilePage />} /> {/* Add route for ProfilePage */}
       </Routes>
     </Router>
   );
@@ -18,13 +19,15 @@ function App() {
 
 function HomePage() {
   const [searchQuery, setSearchQuery] = useState('');
+  const navigate = useNavigate(); // Get the navigate function from useNavigate hook
 
   const handleSearch = (query) => {
     setSearchQuery(query);
   };
 
   const handleViewProfile = () => {
-    
+    // Navigate to the ProfilePage when the button is clicked
+    navigate('/profile');
   };
 
   return (
@@ -36,7 +39,7 @@ function HomePage() {
       </Box>
       <SearchBar onSearch={handleSearch} />
       <Box textAlign="center" mt="4">
-        <Button colorScheme="teal" onClick={handleViewProfile}>
+        <Button colorScheme="purple" onClick={handleViewProfile}>
           View my nutrigenomic profile
         </Button>
       </Box>
