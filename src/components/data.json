@@ -358,5 +358,1120 @@
       ]
     },
     "rating": "68/100"
-  }
-]
+  },
+  {
+    "food": "Okra",
+    "criteria": {
+      "Methylation Cofactors": [
+        "Folate (vitamin B9): 60 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+        "Vitamin B6: 0.215 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+        "Vitamin B12: Not significant in okra.",
+        "Magnesium: 57 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+        "Choline: 63 mg per 100g, vital for liver function, promoting metabolic health."
+      ],
+      "Methylation Potential": [
+        "Moderate methylation potential: 0.8 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+      ],
+      "Antioxidant Content": [
+        "Okra contains various antioxidants, including vitamin C and flavonoids, which help reduce inflammation and oxidative stress, supporting heart health."
+      ],
+      "Fiber Content": [
+        "Dietary fiber: 3.2 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+      ],
+      "Glycemic Index": [
+        "Okra has a low glycemic index (GI) of 20, helping regulate blood sugar levels and reducing the risk of diabetes."
+      ],
+      "Phytonutrients": [
+        "Okra contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+      ],
+      "Detoxification Support": [
+        "Compounds in okra, such as antioxidants and fiber, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+      ],
+      "Methyl Group Donors": [
+        "Okra contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+      ],
+      "Bioavailability of Nutrients": [
+        "Okra has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+      ],
+      "Potential Interactions": [
+        "Some individuals may be allergic to okra or experience gastrointestinal discomfort when consuming it. It's advisable to monitor your body's response and consume in moderation, especially if you have known allergies or sensitivities."
+      ]
+    },
+    "rating": "79/100"
+  },
+  {
+    "food": "Mushrooms",
+    "criteria": {
+      "Methylation Cofactors": [
+        "Folate (vitamin B9): 9 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+        "Vitamin B6: 0.1 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+        "Vitamin B12: 0.5 mcg per 100g, supports red blood cell production and neurological function.",
+        "Magnesium: 9 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+        "Choline: 18 mg per 100g, vital for liver function, promoting metabolic health."
+      ],
+      "Methylation Potential": [
+        "Moderate methylation potential: 1.0 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+      ],
+      "Antioxidant Content": [
+        "Mushrooms contain various antioxidants, including selenium and ergothioneine, which help reduce inflammation and oxidative stress, supporting heart health."
+      ],
+      "Fiber Content": [
+        "Dietary fiber: 2.5 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+      ],
+      "Glycemic Index": [
+        "Mushrooms have a negligible glycemic index (GI), making them suitable for maintaining stable blood sugar levels."
+      ],
+      "Phytonutrients": [
+        "Mushrooms contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+      ],
+      "Detoxification Support": [
+        "Compounds in mushrooms, such as polysaccharides and antioxidants, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+      ],
+      "Methyl Group Donors": [
+        "Mushrooms contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+      ],
+      "Bioavailability of Nutrients": [
+        "Mushrooms have moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+      ],
+      "Potential Interactions": [
+        "Some individuals may experience allergic reactions or digestive discomfort when consuming mushrooms, especially if they are sensitive to fungi. It's advisable to monitor your body's response and consume in moderation."
+      ]
+    },
+    "rating": "84/100"
+  },
+  {
+    "food": "Lentils",
+    "criteria": {
+      "Methylation Cofactors": [
+        "Folate (vitamin B9): 181 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+        "Vitamin B6: 0.47 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+        "Vitamin B12: Not significant in lentils.",
+        "Magnesium: 36 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+        "Choline: 16 mg per 100g, vital for liver function, promoting metabolic health."
+      ],
+      "Methylation Potential": [
+        "High methylation potential: 1.8 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+      ],
+      "Antioxidant Content": [
+        "Lentils contain various antioxidants, including polyphenols and flavonoids, which help reduce inflammation and oxidative stress, supporting heart health."
+      ],
+      "Fiber Content": [
+        "Dietary fiber: 7.9 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+      ],
+      "Glycemic Index": [
+        "Lentils have a low glycemic index (GI) of 32, helping regulate blood sugar levels and reducing the risk of diabetes."
+      ],
+      "Phytonutrients": [
+        "Lentils contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+      ],
+      "Detoxification Support": [
+        "Compounds in lentils, such as fiber and antioxidants, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+      ],
+      "Methyl Group Donors": [
+        "Lentils contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+      ],
+      "Bioavailability of Nutrients": [
+        "Lentils have high bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+      ],
+      "Potential Interactions": [
+        "Some individuals may experience digestive discomfort or flatulence when consuming lentils due to their high fiber content. It's advisable to introduce them gradually into your diet and drink plenty of water to aid digestion."
+      ]
+    },
+    "rating": "90/100"
+  },
+  {
+    "food": "Beets",
+    "criteria": {
+      "Methylation Cofactors": [
+        "Folate (vitamin B9): 109 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+        "Vitamin B6: 0.067 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+        "Vitamin B12: Not significant in beets.",
+        "Magnesium: 23 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+        "Choline: 8.4 mg per 100g, vital for liver function, promoting metabolic health."
+      ],
+      "Methylation Potential": [
+        "Moderate methylation potential: 1.2 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+      ],
+      "Antioxidant Content": [
+        "Beets contain various antioxidants, including betalains and vitamin C, which help reduce inflammation and oxidative stress, supporting heart health."
+      ],
+      "Fiber Content": [
+        "Dietary fiber: 2.8 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+      ],
+      "Glycemic Index": [
+        "Beets have a moderate glycemic index (GI) of 61, providing sustained energy levels and reducing the risk of blood sugar spikes and crashes."
+      ],
+      "Phytonutrients": [
+        "Beets contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+      ],
+      "Detoxification Support": [
+        "Compounds in beets, such as betalains and fiber, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+      ],
+      "Methyl Group Donors": [
+        "Beets contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+      ],
+      "Bioavailability of Nutrients": [
+        "Beets have moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+      ],
+      "Potential Interactions": [
+        "Some individuals may experience a harmless condition called beeturia after consuming beets, causing red or pink urine. It's advisable to monitor your body's response and consume beets in moderation."
+      ]
+    },
+    "rating": "87/100"
+  },
+  {
+    "food": "Beans",
+    "criteria": {
+      "Methylation Cofactors": [
+        "Folate (vitamin B9): 162 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+        "Vitamin B6: 0.274 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+        "Vitamin B12: Not significant in beans.",
+        "Magnesium: 27 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+        "Choline: 35 mg per 100g, vital for liver function, promoting metabolic health."
+      ],
+      "Methylation Potential": [
+        "High methylation potential: 1.5 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+      ],
+      "Antioxidant Content": [
+        "Beans contain various antioxidants, including flavonoids and polyphenols, which help reduce inflammation and oxidative stress, supporting heart health."
+      ],
+      "Fiber Content": [
+        "Dietary fiber: 6.4 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+      ],
+      "Glycemic Index": [
+        "Beans have a low glycemic index (GI) of 30, helping regulate blood sugar levels and reducing the risk of diabetes."
+      ],
+      "Phytonutrients": [
+        "Beans contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+      ],
+      "Detoxification Support": [
+        "Compounds in beans, such as fiber and antioxidants, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+      ],
+      "Methyl Group Donors": [
+        "Beans contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+      ],
+      "Bioavailability of Nutrients": [
+        "Beans have high bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+      ],
+      "Potential Interactions": [
+        "Some individuals may experience digestive discomfort or gas when consuming beans due to their high fiber content. It's advisable to introduce them gradually into your diet and soak them before cooking to reduce these effects."
+      ]
+    },
+    "rating": "92/100"
+  },
+    {
+      "food": "Turmeric",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 39 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.138 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in turmeric.",
+          "Magnesium: 52 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 13 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 1.0 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Turmeric contains various antioxidants, including curcumin, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 21 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Turmeric has a negligible glycemic index (GI), making it suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Turmeric contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in turmeric, such as curcumin, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Turmeric contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Turmeric has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Some individuals may experience gastrointestinal discomfort or allergic reactions to turmeric, especially in high doses or if they have a sensitivity to curcumin. It's advisable to start with small amounts and monitor your body's response."
+        ]
+      },
+      "rating": "88/100"
+    },
+    {
+      "food": "Rosemary",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 307 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.336 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in rosemary.",
+          "Magnesium: 220 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 11 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "High methylation potential: 1.6 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Rosemary contains various antioxidants, including carnosic acid and rosmarinic acid, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 14 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Rosemary has a negligible glycemic index (GI), making it suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Rosemary contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in rosemary, such as carnosic acid, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Rosemary contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Rosemary has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Some individuals may be allergic to certain compounds in rosemary. It's advisable to monitor your body's response when consuming rosemary, especially if you have known allergies."
+        ]
+      },
+      "rating": "91/100"
+    },
+    {
+      "food": "Chia Seeds",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 49 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.155 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in chia seeds.",
+          "Magnesium: 335 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 83 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 1.1 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Chia seeds contain various antioxidants, including quercetin and caffeic acid, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 34.4 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Chia seeds have a negligible glycemic index (GI), making them suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Chia seeds contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in chia seeds, such as fiber and antioxidants, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Chia seeds contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Chia seeds have moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Chia seeds are generally well-tolerated, but some individuals may experience digestive discomfort when consuming large amounts due to their high fiber content. It's advisable to consume them in moderation and drink plenty of water."
+        ]
+      },
+      "rating": "93/100"
+    },
+    {
+      "food": "Pumpkin Seeds",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 58 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.143 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in pumpkin seeds.",
+          "Magnesium: 592 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 63 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 1.2 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Pumpkin seeds contain various antioxidants, including vitamin E and phenolic compounds, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 6 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Pumpkin seeds have a negligible glycemic index (GI), making them suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Pumpkin seeds contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in pumpkin seeds, such as fiber and antioxidants, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Pumpkin seeds contain methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Pumpkin seeds have high bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Pumpkin seeds are generally well-tolerated but may cause allergic reactions in some individuals. It's advisable to monitor your body's response when consuming pumpkin seeds, especially if you have known allergies."
+        ]
+      },
+      "rating": "90/100"
+    },
+    {
+      "food": "Green Tea",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 11 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.005 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in green tea.",
+          "Magnesium: 5 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 3.1 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Low methylation potential: 0.2 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Green tea contains various antioxidants, including catechins and polyphenols, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 0 g per 100g."
+        ],
+        "Glycemic Index": [
+          "Green tea has a negligible glycemic index (GI), making it suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Green tea contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in green tea, such as catechins, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Green tea contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Green tea has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Green tea is generally well-tolerated, but excessive consumption may lead to caffeine-related side effects such as insomnia or gastrointestinal upset in sensitive individuals. It's advisable to consume green tea in moderation."
+        ]
+      },
+      "rating": "87/100"
+    },
+    {
+      "food": "Spinach",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 194 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.195 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: 0.0 mcg per 100g.",
+          "Magnesium: 79 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 19.3 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 1.1 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Spinach contains various antioxidants, including vitamin C and beta-carotene, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 2.2 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Spinach has a negligible glycemic index (GI), making it suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Spinach contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in spinach, such as chlorophyll, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Spinach contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Spinach has high bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Spinach is generally well-tolerated, but individuals taking blood thinners or with certain kidney conditions should consume spinach in moderation due to its high vitamin K content, which can interfere with medication or exacerbate kidney issues."
+        ]
+      },
+      "rating": "95/100"
+    },
+    {
+      "food": "Broccoli",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 63 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.175 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in broccoli.",
+          "Magnesium: 21 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 16 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 1.0 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Broccoli contains various antioxidants, including vitamin C and flavonoids, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 2.6 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Broccoli has a negligible glycemic index (GI), making it suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Broccoli contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in broccoli, such as sulforaphane, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Broccoli contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Broccoli has high bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Broccoli is generally well-tolerated, but some individuals may experience digestive discomfort or gas due to its high fiber content. It's advisable to consume broccoli in moderation, especially if you have digestive issues."
+        ]
+      },
+      "rating": "94/100"
+    },
+    {
+      "food": "Garlic",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 3 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 1.235 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in garlic.",
+          "Magnesium: 25 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 8 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 0.8 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Garlic contains various antioxidants, including allicin and sulfur compounds, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 2.1 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Garlic has a negligible glycemic index (GI), making it suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Garlic contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in garlic, such as sulfur compounds, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Garlic contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Garlic has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Garlic is generally well-tolerated, but some individuals may experience digestive discomfort or heartburn. It may also interact with certain medications, particularly blood thinners. It's advisable to consult with a healthcare professional before consuming garlic supplements, especially if you are taking medications or have a medical condition."
+        ]
+      },
+      "rating": "92/100"
+    },
+    {
+      "food": "Asparagus",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 52 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.091 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in asparagus.",
+          "Magnesium: 14 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 16 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 1.0 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Asparagus contains various antioxidants, including vitamin E and flavonoids, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 2.1 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "Asparagus has a negligible glycemic index (GI), making it suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Asparagus contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in asparagus, such as glutathione, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Asparagus contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Asparagus has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Asparagus is generally well-tolerated, but some individuals may notice a distinct odor in their urine after consumption due to the breakdown of sulfur compounds. It's a normal and harmless occurrence."
+        ]
+      },
+      "rating": "89/100"
+    },
+    {
+      "food": "Chocolate",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 20 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.092 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in chocolate.",
+          "Magnesium: 228 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 12 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Moderate methylation potential: 1.1 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Chocolate contains various antioxidants, including flavonoids and theobromine, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Dietary fiber: 3.4 g per 100g, supports digestive health, preventing constipation and promoting regularity."
+        ],
+        "Glycemic Index": [
+          "The glycemic index (GI) of chocolate varies depending on the type and processing but generally ranges from low to moderate, affecting blood sugar levels accordingly."
+        ],
+        "Phytonutrients": [
+          "Chocolate contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in chocolate, such as flavonoids, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Chocolate contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Chocolate has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Chocolate is generally well-tolerated, but some individuals may experience adverse effects such as migraines or digestive issues due to its caffeine and theobromine content. It's advisable to consume chocolate in moderation, especially if you are sensitive to caffeine or have a medical condition."
+        ]
+      },
+      "rating": "86/100"
+    },
+    {
+      "food": "Coffee",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Folate (vitamin B9): 4 mcg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health.",
+          "Vitamin B6: 0.016 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: Not significant in coffee.",
+          "Magnesium: 3 mg per 100g, supports muscle and nerve function, contributing to bone health.",
+          "Choline: 6.3 mg per 100g, vital for liver function, promoting metabolic health."
+        ],
+        "Methylation Potential": [
+          "Low methylation potential: 0.4 μmol/L, supporting cellular repair and immune function, enhancing overall health."
+        ],
+        "Antioxidant Content": [
+          "Coffee contains various antioxidants, including chlorogenic acid and caffeic acid, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Coffee is not a significant source of dietary fiber."
+        ],
+        "Glycemic Index": [
+          "Coffee has a negligible glycemic index (GI), making it suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Coffee contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Compounds in coffee, such as chlorogenic acid, support liver detoxification pathways, aiding in removing toxins from the body, promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Coffee contains methyl group donors that are essential for cellular energy production, supporting metabolism."
+        ],
+        "Bioavailability of Nutrients": [
+          "Coffee has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Coffee is generally well-tolerated, but some individuals may experience adverse effects such as insomnia, nervousness, or gastrointestinal upset due to its caffeine content. It may also interact with certain medications. It's advisable to consume coffee in moderation and consult with a healthcare professional if you have any concerns."
+        ]
+      },
+      "rating": "85/100"
+    },
+    {
+      "food": "Chicken",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Chicken is a rich source of protein, containing approximately 31 grams per 100 grams, supporting muscle growth and repair."
+        ],
+        "Methylation Potential": [
+          "Vitamin B6: 0.6 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: 0.3 μg per 100g, crucial for red blood cell formation and neurological function.",
+          "Vitamin D: 0.5 μg per 100g, supports bone health and immune function."
+        ],
+        "Antioxidant Content": [
+          "Chicken contains omega-3 fatty acids, albeit in smaller amounts compared to fatty fish like salmon, contributing to heart health and reducing inflammation."
+        ],
+        "Fiber Content": [
+          "Chicken has relatively lower saturated fat content compared to red meat, making it a healthier protein option for cardiovascular health."
+        ],
+        "Glycemic Index": [
+          "Nutrients in chicken have high bioavailability, ensuring efficient absorption and utilization by the body."
+        ],
+        "Phytonutrients": [
+          "Grilling, baking, or boiling chicken without excessive oil or breading helps retain its nutritional value and keeps it a healthy protein choice."
+        ],
+        "Detoxification Support": [
+          "Some individuals may be sensitive to chicken due to allergies or intolerances. It's important to ensure chicken is cooked thoroughly to avoid foodborne illnesses."
+        ],
+        "Methyl Group Donors": [
+          "Chicken has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Bioavailability of Nutrients": [
+          "Individuals with certain allergies or intolerances should be cautious when consuming chicken. Additionally, cross-contamination and improper cooking can lead to foodborne illnesses."
+        ],
+        "Potential Interactions": [
+          "Chicken is generally well-tolerated, but individuals with poultry allergies should avoid consumption. Additionally, the method of preparation, such as frying, can introduce unhealthy fats and increase calorie content."
+        ]
+      },
+      "rating": "82/100"
+    },
+    {
+      "food": "Beef",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Beef is a rich source of protein, containing approximately 26 grams per 100 grams, supporting muscle growth and repair."
+        ],
+        "Methylation Potential": [
+          "Vitamin B6: 0.5 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: 2.1 μg per 100g, crucial for red blood cell formation and neurological function."
+        ],
+        "Antioxidant Content": [
+          "Beef contains omega-3 fatty acids, albeit in smaller amounts compared to fatty fish like salmon, contributing to heart health and reducing inflammation."
+        ],
+        "Fiber Content": [
+          "Beef has a higher saturated fat content compared to leaner protein sources like chicken or fish. Moderation is key to prevent adverse effects on cardiovascular health."
+        ],
+        "Glycemic Index": [
+          "Nutrients in beef have high bioavailability, ensuring efficient absorption and utilization by the body."
+        ],
+        "Phytonutrients": [
+          "Grilling, roasting, or stewing beef without excessive fat helps retain its nutritional value and makes it a healthier protein choice."
+        ],
+        "Detoxification Support": [
+          "Some individuals may need to limit their intake of beef due to its saturated fat content, which can increase cholesterol levels and risk of cardiovascular diseases."
+        ],
+        "Methyl Group Donors": [
+          "Beef has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Bioavailability of Nutrients": [
+          "Individuals with specific dietary restrictions or health conditions should monitor their beef consumption. Lean cuts and appropriate cooking methods can mitigate potential health risks."
+        ],
+        "Potential Interactions": [
+          "Beef can be problematic for individuals with certain health conditions such as gout or high cholesterol due to its purine and saturated fat content. Additionally, processed beef products may contain additives that can negatively impact health."
+        ]
+      },
+      "rating": "75/100"
+    },
+    {
+      "food": "Salmon",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Salmon is a rich source of protein, containing approximately 20 grams per 100 grams, supporting muscle growth and repair."
+        ],
+        "Methylation Potential": [
+          "Salmon is one of the best sources of omega-3 fatty acids, containing significant amounts of EPA and DHA, which support heart health, brain function, and reduce inflammation."
+        ],
+        "Antioxidant Content": [
+          "Salmon has low saturated fat content compared to other protein sources like beef, making it heart-healthy."
+        ],
+        "Fiber Content": [
+          "Salmon is not a significant source of dietary fiber."
+        ],
+        "Glycemic Index": [
+          "Salmon has a negligible glycemic index (GI), making it suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Salmon contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Baking, grilling, or poaching salmon helps retain its omega-3 fatty acid content and preserves its nutritional value."
+        ],
+        "Methyl Group Donors": [
+          "Individuals allergic to fish or sensitive to seafood should avoid salmon. Consuming large amounts of farmed salmon may expose individuals to environmental contaminants, so wild-caught salmon is preferred."
+        ],
+        "Bioavailability of Nutrients": [
+          "Salmon has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Potential Interactions": [
+          "Salmon consumption can be problematic for individuals with fish allergies or sensitivities. Additionally, consuming large amounts of certain types of salmon, particularly farmed varieties, may expose individuals to environmental contaminants such as mercury."
+        ]
+      },
+      "rating": "90/100"
+    },
+    {
+      "food": "Eggs",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Eggs are a rich source of high-quality protein, containing approximately 13 grams per 100 grams, supporting muscle growth and repair."
+        ],
+        "Methylation Potential": [
+          "Vitamin B12: 1.1 μg per 100g, crucial for red blood cell formation and neurological function.",
+          "Vitamin D: 1.1 μg per 100g, supports bone health and immune function."
+        ],
+        "Antioxidant Content": [
+          "Eggs contain omega-3 fatty acids, particularly in the yolk, contributing to heart health and reducing inflammation."
+        ],
+        "Fiber Content": [
+          "Eggs are not a significant source of dietary fiber."
+        ],
+        "Glycemic Index": [
+          "Eggs have a negligible glycemic index (GI), making them suitable for maintaining stable blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Eggs contain various phytonutrients with antioxidant properties, such as lutein and zeaxanthin, which support eye health."
+        ],
+        "Detoxification Support": [
+          "Individuals with egg allergies should avoid consumption. It's also important to cook eggs thoroughly to reduce the risk of foodborne illnesses such as salmonella."
+        ],
+        "Methyl Group Donors": [
+          "Eggs have moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Bioavailability of Nutrients": [
+          "While eggs are nutrient-dense, individuals with cholesterol-related health concerns should monitor their intake due to the cholesterol content in egg yolks."
+        ],
+        "Potential Interactions": [
+          "Egg allergies are common and can cause severe reactions in some individuals. Additionally, individuals with certain health conditions, such as diabetes, may need to monitor their egg consumption due to the cholesterol content."
+        ]
+      },
+      "rating": "88/100"
+    },
+    {
+      "food": "Milk",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Milk is a rich source of protein, containing approximately 3.2 grams per 100 grams, supporting muscle growth and repair."
+        ],
+        "Methylation Potential": [
+          "Vitamin B6: 0.04 mg per 100g, essential for neurotransmitter synthesis, potentially aiding in nerve function.",
+          "Vitamin B12: 0.4 μg per 100g, crucial for red blood cell formation and neurological function."
+        ],
+        "Antioxidant Content": [
+          "Milk contains various antioxidants, including vitamins A and E, which help protect cells from oxidative damage."
+        ],
+        "Fiber Content": [
+          "Milk is not a significant source of dietary fiber."
+        ],
+        "Glycemic Index": [
+          "Milk has a low glycemic index (GI), meaning it has minimal impact on blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Milk contains various phytonutrients with potential health benefits, although research in this area is ongoing."
+        ],
+        "Detoxification Support": [
+          "Individuals with lactose intolerance should opt for lactose-free milk or alternative dairy-free options. Milk allergies are also common, so it's important to be aware of potential adverse reactions."
+        ],
+        "Methyl Group Donors": [
+          "Milk has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Bioavailability of Nutrients": [
+          "While milk is a good source of essential nutrients like calcium and vitamin D, it may not be suitable for individuals with lactose intolerance or milk allergies. Additionally, some research suggests that excessive milk consumption may increase the risk of certain health conditions."
+        ],
+        "Potential Interactions": [
+          "Individuals with lactose intolerance or milk allergies should avoid milk consumption. Additionally, some medications may interact with components in milk, affecting their absorption or efficacy."
+        ]
+      },
+      "rating": "75/100"
+    },
+    {
+      "food": "Almonds",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Almonds are a good source of protein, containing approximately 21 grams per 100 grams, supporting muscle growth and repair."
+        ],
+        "Methylation Potential": [
+          "Vitamin E: 25.6 mg per 100g, acts as an antioxidant, protecting cells from oxidative damage.",
+          "Folate (vitamin B9): 50 μg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health."
+        ],
+        "Antioxidant Content": [
+          "Almonds are rich in antioxidants, such as vitamin E, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Almonds are a good source of dietary fiber, with approximately 12 grams per 100 grams, supporting digestive health and promoting satiety."
+        ],
+        "Glycemic Index": [
+          "Almonds have a low glycemic index (GI), meaning they have minimal impact on blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Almonds contain various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Almonds contain compounds that support liver detoxification pathways, aiding in removing toxins from the body and promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Almonds have moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Bioavailability of Nutrients": [
+          "While almonds are nutrient-dense and offer various health benefits, individuals with nut allergies should avoid consumption. Additionally, consuming large quantities of almonds may lead to weight gain due to their high calorie and fat content."
+        ],
+        "Potential Interactions": [
+          "Individuals with nut allergies should avoid almonds. Additionally, excessive consumption of almonds may lead to gastrointestinal discomfort or weight gain due to their high calorie content."
+        ]
+      },
+      "rating": "85/100"
+    },
+    {
+      "food": "Peanut Butter",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Peanut butter is a good source of protein, containing approximately 25 grams per 100 grams, supporting muscle growth and repair."
+        ],
+        "Methylation Potential": [
+          "Folate (vitamin B9): 240 μg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health."
+        ],
+        "Antioxidant Content": [
+          "Peanut butter contains antioxidants, such as vitamin E and resveratrol, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Peanut butter is a good source of dietary fiber, with approximately 8 grams per 100 grams, supporting digestive health and promoting satiety."
+        ],
+        "Glycemic Index": [
+          "Peanut butter has a low glycemic index (GI), meaning it has minimal impact on blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Peanut butter contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Peanut butter contains compounds that support liver detoxification pathways, aiding in removing toxins from the body and promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Peanut butter has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Bioavailability of Nutrients": [
+          "While peanut butter is nutrient-dense and offers various health benefits, individuals with peanut allergies should avoid consumption. Additionally, consuming large quantities of peanut butter may lead to weight gain due to its high calorie and fat content."
+        ],
+        "Potential Interactions": [
+          "Individuals with peanut allergies should avoid peanut butter. Additionally, excessive consumption of peanut butter may lead to gastrointestinal discomfort or weight gain due to its high calorie content."
+        ]
+      },
+      "rating": "80/100"
+    },
+    {
+      "food": "Cheddar Cheese",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Cheddar cheese is a good source of protein, containing approximately 25 grams per 100 grams, supporting muscle growth and repair."
+        ],
+        "Methylation Potential": [
+          "Vitamin B12: 0.82 μg per 100g, crucial for red blood cell formation and neurological function."
+        ],
+        "Antioxidant Content": [
+          "Cheddar cheese contains antioxidants, such as vitamin A and vitamin E, which help reduce inflammation and oxidative stress, supporting overall health."
+        ],
+        "Fiber Content": [
+          "Cheddar cheese is not a significant source of dietary fiber."
+        ],
+        "Glycemic Index": [
+          "Cheddar cheese has a low glycemic index (GI), meaning it has minimal impact on blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Cheddar cheese contains various phytonutrients with potential health benefits, although research in this area is ongoing."
+        ],
+        "Detoxification Support": [
+          "Cheddar cheese contains compounds that support liver detoxification pathways, aiding in removing toxins from the body and promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Cheddar cheese has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Bioavailability of Nutrients": [
+          "While cheddar cheese is nutrient-dense and offers various health benefits, individuals with lactose intolerance or dairy allergies should avoid consumption. Additionally, consuming large quantities of cheese may lead to weight gain due to its high calorie and fat content."
+        ],
+        "Potential Interactions": [
+          "Individuals with lactose intolerance or dairy allergies should avoid cheddar cheese. Additionally, excessive consumption of cheese may lead to gastrointestinal discomfort or weight gain due to its high calorie content."
+        ]
+      },
+      "rating": "78/100"
+    },
+    {
+      "food": "Kale",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Kale is a rich source of vitamins and minerals, including vitamin K, vitamin C, and calcium, supporting overall health and well-being."
+        ],
+        "Methylation Potential": [
+          "Folate (vitamin B9): 141 μg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health."
+        ],
+        "Antioxidant Content": [
+          "Kale contains various antioxidants, such as vitamin C and beta-carotene, which help reduce inflammation and oxidative stress, supporting heart health."
+        ],
+        "Fiber Content": [
+          "Kale is a good source of dietary fiber, with approximately 4 grams per 100 grams, supporting digestive health and promoting satiety."
+        ],
+        "Glycemic Index": [
+          "Kale has a low glycemic index (GI), meaning it has minimal impact on blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Kale contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Kale contains compounds that support liver detoxification pathways, aiding in removing toxins from the body and promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Kale has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Bioavailability of Nutrients": [
+          "While kale is nutrient-dense and offers various health benefits, individuals taking blood thinners should monitor their intake due to the high vitamin K content, which can interfere with medication efficacy."
+        ],
+        "Potential Interactions": [
+          "Individuals taking blood thinners should moderate their kale consumption due to its high vitamin K content, which can interfere with medication efficacy. Additionally, excessive consumption of kale may lead to gastrointestinal discomfort or interfere with iodine absorption in individuals with thyroid conditions."
+        ]
+      },
+      "rating": "90/100"
+    },
+    {
+      "food": "Avocado",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Avocado is a rich source of monounsaturated fats, supporting heart health by lowering LDL cholesterol levels and reducing the risk of cardiovascular diseases."
+        ],
+        "Methylation Potential": [
+          "Folate (vitamin B9): 81 μg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health."
+        ],
+        "Antioxidant Content": [
+          "Avocado contains antioxidants, such as vitamin E and lutein, which help reduce inflammation and oxidative stress, supporting overall health."
+        ],
+        "Fiber Content": [
+          "Avocado is a good source of dietary fiber, with approximately 7 grams per 100 grams, supporting digestive health and promoting satiety."
+        ],
+        "Glycemic Index": [
+          "Avocado has a low glycemic index (GI), meaning it has minimal impact on blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Avocado contains various phytonutrients with anti-inflammatory properties, potentially reducing the risk of chronic diseases."
+        ],
+        "Detoxification Support": [
+          "Avocado contains compounds that support liver detoxification pathways, aiding in removing toxins from the body and promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Avocado has moderate bioavailability, ensuring efficient absorption of nutrients and optimizing their health benefits."
+        ],
+        "Bioavailability of Nutrients": [
+          "While avocado is nutrient-dense and offers various health benefits, individuals with latex allergies may experience cross-reactivity and should avoid consumption. Additionally, excessive consumption of avocado may lead to weight gain due to its high calorie and fat content."
+        ],
+        "Potential Interactions": [
+          "Individuals with latex allergies should avoid avocado due to potential cross-reactivity. Additionally, excessive consumption of avocado may lead to gastrointestinal discomfort or weight gain due to its high calorie content."
+        ]
+      },
+      "rating": "92/100"
+    },
+    {
+      "food": "Lettuce",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Lettuce is low in calories and carbohydrates, making it a suitable option for weight management and maintaining stable blood sugar levels."
+        ],
+        "Methylation Potential": [
+          "Lettuce is not a significant source of methyl donors."
+        ],
+        "Antioxidant Content": [
+          "Lettuce contains various antioxidants, such as vitamin C and beta-carotene, which help reduce inflammation and oxidative stress, supporting overall health."
+        ],
+        "Fiber Content": [
+          "Lettuce is a good source of dietary fiber, with approximately 1.3 grams per 100 grams, supporting digestive health and promoting satiety."
+        ],
+        "Glycemic Index": [
+          "Lettuce has a low glycemic index (GI), meaning it has minimal impact on blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Lettuce contains various phytonutrients with potential health benefits, although research in this area is ongoing."
+        ],
+        "Detoxification Support": [
+          "Lettuce contains compounds that support liver detoxification pathways, aiding in removing toxins from the body and promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Lettuce is not a significant source of methyl group donors."
+        ],
+        "Bioavailability of Nutrients": [
+          "While lettuce is low in calories and offers various vitamins and minerals, it may not be as nutrient-dense as other leafy greens like kale or spinach. However, incorporating a variety of greens into your diet can provide a range of nutrients."
+        ],
+        "Potential Interactions": [
+          "Lettuce is generally well-tolerated and does not commonly interact with medications or cause adverse effects. However, individuals with allergies to certain types of lettuce should avoid consumption."
+        ]
+      },
+      "rating": "80/100"
+    },
+    {
+      "food": "Carrots",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Carrots are a good source of vitamins and minerals, particularly beta-carotene, vitamin K, and potassium, supporting overall health and well-being."
+        ],
+        "Methylation Potential": [
+          "Folate (vitamin B9): 19 μg per 100g, aids in DNA synthesis and repair, supporting cardiovascular health."
+        ],
+        "Antioxidant Content": [
+          "Carrots contain various antioxidants, such as beta-carotene and lutein, which help reduce inflammation and oxidative stress, supporting overall health."
+        ],
+        "Fiber Content": [
+          "Carrots are a good source of dietary fiber, with approximately 2.8 grams per 100 grams, supporting digestive health and promoting satiety."
+        ],
+        "Glycemic Index": [
+          "Carrots have a low glycemic index (GI), meaning they have minimal impact on blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Carrots contain various phytonutrients with potential health benefits, including polyacetylenes and falcarinol, which have been studied for their anti-cancer properties."
+        ],
+        "Detoxification Support": [
+          "Carrots contain compounds that support liver detoxification pathways, aiding in removing toxins from the body and promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Carrots are not a significant source of methyl donors."
+        ],
+        "Bioavailability of Nutrients": [
+          "While carrots are nutrient-dense and offer various health benefits, individuals with carrot allergies should avoid consumption. Additionally, excessive consumption of carrots may lead to a condition called carotenemia, characterized by yellow-orange skin discoloration."
+        ],
+        "Potential Interactions": [
+          "Carrots are generally well-tolerated and do not commonly interact with medications or cause adverse effects. However, individuals with allergies to carrots or other related plants should avoid consumption."
+        ]
+      },
+      "rating": "88/100"
+    },
+    {
+      "food": "Celery",
+      "criteria": {
+        "Methylation Cofactors": [
+          "Celery is low in calories and carbohydrates, making it a suitable option for weight management and maintaining stable blood sugar levels."
+        ],
+        "Methylation Potential": [
+          "Celery is not a significant source of methyl donors."
+        ],
+        "Antioxidant Content": [
+          "Celery contains various antioxidants, such as vitamin C and flavonoids, which help reduce inflammation and oxidative stress, supporting overall health."
+        ],
+        "Fiber Content": [
+          "Celery is a good source of dietary fiber, with approximately 1.6 grams per 100 grams, supporting digestive health and promoting satiety."
+        ],
+        "Glycemic Index": [
+          "Celery has a low glycemic index (GI), meaning it has minimal impact on blood sugar levels."
+        ],
+        "Phytonutrients": [
+          "Celery contains various phytonutrients with potential health benefits, including apigenin and luteolin, which have been studied for their anti-inflammatory properties."
+        ],
+        "Detoxification Support": [
+          "Celery contains compounds that support liver detoxification pathways, aiding in removing toxins from the body and promoting overall health."
+        ],
+        "Methyl Group Donors": [
+          "Celery is not a significant source of methyl group donors."
+        ],
+        "Bioavailability of Nutrients": [
+          "While celery is low in calories and offers various vitamins and minerals, it may not be as nutrient-dense as other vegetables. However, incorporating celery into your diet can provide additional hydration and fiber."
+        ],
+        "Potential Interactions": [
+          "Celery is generally well-tolerated and does not commonly interact with medications or cause adverse effects. However, individuals with allergies to celery or other related plants should avoid consumption."
+        ]
+      },
+      "rating": "82/100"
+    }
+  ]
+  

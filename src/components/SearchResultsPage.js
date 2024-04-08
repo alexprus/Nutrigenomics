@@ -20,7 +20,7 @@ function SearchResultsPage() {
 
   // Render search results
   return (
-    <Box bgGradient="linear(to-r, blue.500, red.500)" minHeight="100vh" overflow="hidden">
+    <Box bgGradient="linear(to-r, green.500, blue.200)" minHeight="100vh" overflow="hidden">
       <Box textAlign="left" pt="5%" pl="4">
         <Heading as="h1" size="2xl" color="white">
           Database
@@ -34,7 +34,7 @@ function SearchResultsPage() {
             </Heading>
             {filteredResults.map((result, idx) => (
               <HStack key={idx} mb="4">
-                <Button colorScheme="purple" onClick={() => handleRatingClick(result)}>
+                <Button colorScheme="yellow" onClick={() => handleRatingClick(result)}>
                   Calculate Rating for {result.food}
                 </Button>
                 {ratings[result.food] && (

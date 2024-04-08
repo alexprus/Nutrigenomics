@@ -106,7 +106,7 @@ function ProfilePage() {
   };
 
   return (
-    <Box bgGradient="linear(to-r, #7928CA, #FF0080)" minHeight="100vh" overflow="hidden" p="4">
+    <Box bgGradient="linear(to-r, pink.500, yellow.500)" minHeight="100vh" overflow="hidden" p="4">
       <Box textAlign="left" pt="5%">
         <Heading as="h1" size="2xl" color="white" mb="4">
           Your Nutrigenomic Profile
@@ -137,7 +137,7 @@ function ProfilePage() {
         <Box textAlign="center" mt="4">
           <CircularProgress isIndeterminate color="teal" />
           <Text mt="2" color="white" fontSize="lg">
-            Loading...
+            Processing...
           </Text>
         </Box>
       )}

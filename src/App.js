@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Box, Heading, Button, Image } from '@chakra-ui/react';
+import { Box, Heading, Button } from '@chakra-ui/react';
 import { BrowserRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
 import SearchBar from './components/SearchBar';
 import SearchResultsPage from './components/SearchResultsPage';
@@ -18,11 +18,13 @@ function App() {
 }
 
 function HomePage() {
+    // eslint-disable-next-line no-unused-vars
   const [searchQuery, setSearchQuery] = useState('');
   const navigate = useNavigate(); // Get the navigate function from useNavigate hook
 
   const handleSearch = (query) => {
     setSearchQuery(query);
+
   };
 
   const handleViewProfile = () => {
