@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/my-new-app/static/js/main.5b9fdadd.js",
-    "static/js/453.0a9f4b6c.chunk.js": "/my-new-app/static/js/453.0a9f4b6c.chunk.js",
-    "index.html": "/my-new-app/index.html",
-    "main.5b9fdadd.js.map": "/my-new-app/static/js/main.5b9fdadd.js.map",
-    "453.0a9f4b6c.chunk.js.map": "/my-new-app/static/js/453.0a9f4b6c.chunk.js.map"
+    "main.js": "/nutrigenomics/static/js/main.4a614901.js",
+    "static/js/453.0a9f4b6c.chunk.js": "/nutrigenomics/static/js/453.0a9f4b6c.chunk.js",
+    "index.html": "/nutrigenomics/index.html",
+    "main.4a614901.js.map": "/nutrigenomics/static/js/main.4a614901.js.map",
+    "453.0a9f4b6c.chunk.js.map": "/nutrigenomics/static/js/453.0a9f4b6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.5b9fdadd.js"
+    "static/js/main.4a614901.js"
   ]
 }
