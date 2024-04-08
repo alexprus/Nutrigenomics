@@ -3,7 +3,7 @@ import { useParams } from 'react-router-dom';
 import { Box, Heading, Table, Tbody, Tr, Th, Td, Button, Text, HStack } from '@chakra-ui/react';
 import data from './data';
 
-function SearchResultsPage() {
+function SearchResultsPage() { // Search results page component
   const { query } = useParams();
   const [ratings, setRatings] = useState({});
 
@@ -14,7 +14,7 @@ function SearchResultsPage() {
 
   // Function to handle button click and display rating
   const handleRatingClick = (food) => {
-    const rating = food.rating; // Use the rating directly from JSON data
+    const rating = food.rating; // Fetch the rating
     setRatings({ ...ratings, [food.food]: rating });
   };
 
@@ -32,19 +32,19 @@ function SearchResultsPage() {
             <Heading as="h2" size="lg" color="white" mb="4">
               Search Results for: {query}
             </Heading>
-            {filteredResults.map((result, idx) => (
+            {filteredResults.map((result, idx) => ( // Logic for calculation button
               <HStack key={idx} mb="4">
                 <Button colorScheme="yellow" onClick={() => handleRatingClick(result)}>
                   Calculate Rating for {result.food}
                 </Button>
-                {ratings[result.food] && (
+                {ratings[result.food] && ( // Display rating
                   <Text color="white">Certified Nutrigenomics App Rating: {ratings[result.food]}</Text>
                 )}
               </HStack>
             ))}
             <Table variant="striped" colorScheme="whiteAlpha">
-              <Tbody>
-                {Object.keys(filteredResults[0].criteria).map((category, index) => (
+              <Tbody> 
+                {Object.keys(filteredResults[0].criteria).map((category, index) => ( // Maps over criteria data
                   <Tr key={index}>
                     <Th color="white">{category}</Th>
                     {filteredResults.map((result, idx) => (
@@ -61,8 +61,8 @@ function SearchResultsPage() {
               </Tbody>
             </Table>
           </>
-        ) : (
-          <Box textAlign="center" pt="10%">
+        ) : ( // Error message if no results are found
+          <Box textAlign="center" pt="10%"> 
             <Heading as="h1" size="2xl" color="white">
               Oops!
             </Heading>

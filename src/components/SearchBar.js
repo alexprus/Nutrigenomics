@@ -1,18 +1,17 @@
-// SearchBar.js
 
 import React, { useState } from 'react';
 import { Box, Input, Button } from '@chakra-ui/react';
 import { useNavigate } from 'react-router-dom';
 
-function SearchBar({ onSearch }) {
+function SearchBar({ onSearch }) { // Search bar component
   const [query, setQuery] = useState('');
   const navigate = useNavigate();
 
-  const handleChange = (event) => {
+  const handleChange = (event) => { // Handles input to the search query
     setQuery(event.target.value);
   };
 
-  const handleSubmit = (event) => {
+  const handleSubmit = (event) => { // Handles submission of the search query
     event.preventDefault();
     if (onSearch) {
       onSearch(query);
@@ -20,7 +19,7 @@ function SearchBar({ onSearch }) {
     navigate(`/search-results/${query}`);
   };
 
-  return (
+  return ( // Base form for the search bar
     <Box
       as="form"
       onSubmit={handleSubmit}
@@ -35,7 +34,7 @@ function SearchBar({ onSearch }) {
         placeholder="Search foods..."
         value={query}
         onChange={handleChange}
-        sx={{ '::placeholder': { color: 'white' } }} // Custom CSS to set placeholder text color
+        sx={{ '::placeholder': { color: 'white' } }} // Custom CSS
         placeholderTextColor="white"
       />
       <Button type="submit" colorScheme="yellow" ml="3">

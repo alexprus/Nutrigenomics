@@ -6,12 +6,12 @@ import SearchResultsPage from './components/SearchResultsPage';
 import ProfilePage from './components/ProfilePage'; // Import ProfilePage component
 
 function App() {
-  return (
+  return ( // Route configuration for the app
     <Router>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/search-results/:query" element={<SearchResultsPage />} />
-        <Route path="/profile" element={<ProfilePage />} /> {/* Add route for ProfilePage */}
+        <Route path="/profile" element={<ProfilePage />} /> 
       </Routes>
     </Router>
   );
@@ -20,7 +20,7 @@ function App() {
 function HomePage() {
     // eslint-disable-next-line no-unused-vars
   const [searchQuery, setSearchQuery] = useState('');
-  const navigate = useNavigate(); // Get the navigate function from useNavigate hook
+  const navigate = useNavigate(); 
 
   const handleSearch = (query) => {
     setSearchQuery(query);
@@ -32,7 +32,7 @@ function HomePage() {
     navigate('/profile');
   };
 
-  return (
+  return ( // Base JS for HomePage component
     <Box bgGradient="linear(to-r, #ff00cc, #00ff00)" h="100vh">
       <Box textAlign="center" pt="10%">
         <Heading as="h1" size="2xl" color="white">
@@ -45,7 +45,6 @@ function HomePage() {
           View my nutrigenomic profile
         </Button>
       </Box>
-      {/* Powered by Nutrigenomix logo */}
       <Box textAlign="center" mt="4">
       </Box>
     </Box>

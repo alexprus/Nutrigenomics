@@ -10,7 +10,7 @@ function ProfilePage() {
   const [showTrainingPlan, setShowTrainingPlan] = useState(false);
   const [loading, setLoading] = useState(false);
 
-  useEffect(() => {
+  useEffect(() => { // Simulates loading time for insights
     if (showNotification) {
       setLoading(true);
 
@@ -23,7 +23,7 @@ function ProfilePage() {
     }
   }, [showNotification]);
 
-  const nutritionInsights = [
+  const nutritionInsights = [ // Sample data for nutrition insights
     {
       title: "Caffeine Metabolism",
       description: "Based on your results, you have a variant of the CYP1A2 gene, which affects caffeine metabolism. Consider reducing your caffeine intake to support optimal health."
@@ -42,7 +42,7 @@ function ProfilePage() {
     }
   ];
 
-  const trainingPlan = [
+  const trainingPlan = [ // Sample training plan data
     {
       day: "Monday",
       exercise: "30-minute Run",
@@ -91,7 +91,7 @@ function ProfilePage() {
     setSelectedFile(event.target.files[0]);
   };
 
-  const handleUpload = () => {
+  const handleUpload = () => { // Handles file upload
     if (selectedFile) {
       console.log("Selected file:", selectedFile);
       setShowNotification(true);
@@ -100,12 +100,12 @@ function ProfilePage() {
     }
   };
 
-  const handleTrainingPlan = () => {
+  const handleTrainingPlan = () => { // Handles training plan button click
     setShowTrainingPlan(true);
     console.log("Training plan button clicked.");
   };
 
-  return (
+  return ( // Base JS for ProfilePage component
     <Box bgGradient="linear(to-r, pink.500, yellow.500)" minHeight="100vh" overflow="hidden" p="4">
       <Box textAlign="left" pt="5%">
         <Heading as="h1" size="2xl" color="white" mb="4">
@@ -127,13 +127,13 @@ function ProfilePage() {
           Upload
         </Button>
       </Box>
-      {showNotification && (
+      {showNotification && ( // Displays alert notification
         <Alert status="success" mt="4">
           <AlertIcon />
           Thank you! Your test results were successfully uploaded.
         </Alert>
       )}
-      {loading && (
+      {loading && ( 
         <Box textAlign="center" mt="4">
           <CircularProgress isIndeterminate color="teal" />
           <Text mt="2" color="white" fontSize="lg">
@@ -146,7 +146,7 @@ function ProfilePage() {
           <Heading as="h2" size="lg" mb="2" color="teal">
             Your Nutrition Insights
           </Heading>
-          {nutritionInsights.map((insight, index) => (
+          {nutritionInsights.map((insight, index) => ( // Maps over nutrition insights data
             <Box key={index} mb="4">
               <Text fontSize="md" color="gray.700" fontWeight="bold" mb="2">{insight.title}</Text>
               <Text fontSize="md" color="gray.700">{insight.description}</Text>
@@ -176,7 +176,7 @@ function ProfilePage() {
                   </Tr>
                 </Thead>
                 <Tbody>
-                  {trainingPlan.map((dayPlan, index) => (
+                  {trainingPlan.map((dayPlan, index) => ( // Maps over training plan data 
                     <Tr key={index}>
                       <Td>{dayPlan.day}</Td>
                       <Td>{dayPlan.exercise}</Td>
